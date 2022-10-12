@@ -1,11 +1,9 @@
 ## Bem vindo(a)
-Eu sou [**@jaderAdriel**](https://github.com/jaderAdriel), tenho x anos e sou estudante de Informática no [Instituto Federal Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/). Curto JavaScript, mas atualmente estou estudando PHP e Python. Tenho interesse em Desenvolvimento Web ou Ciencias da Computação. Sou do rock🤘🏻
+Eu sou [**@jaderAdriel**](https://github.com/jaderAdriel), tenho 19 anos e sou estudante de Informática no [Instituto Federal Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/). Curto JavaScript, mas atualmente estou estudando Dart e Flutter
 
 ## Status
-* Monitor de Programação de Sistemas para Web no Instituto Federal Baiano - Campus Guanambi
-* Desenvolvendo projeto clorofila sla oq
-* Estudando PHP para Sistemas de gerencia de internet privada
-* Estudando Servidores
+* 
+* Estudando Servidores e Flutter
 
 ## Linguagens e tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=993399&color=993399)
@@ -22,7 +20,6 @@ Eu sou [**@jaderAdriel**](https://github.com/jaderAdriel), tenho x anos e sou es
 ## Skills
 ![Algoritmos](https://img.shields.io/badge/-Algoritmos-993399?style=for-the-badge)
 ![Estruturas de Dados](https://img.shields.io/badge/-Estruturas%20de%20Dados-993399?style=for-the-badge)
-![Clean Code](https://img.shields.io/badge/-Clean%20Code-993399?style=for-the-badge)
 ![Raciocínio Lógico](https://img.shields.io/badge/-Raciocínio%20Lógico-993399?style=for-the-badge)
  
  ## Minha atividade
