@@ -1,9 +1,6 @@
 ## Bem vindo(a)
-Eu sou [**@jaderAdriel**](https://github.com/jaderAdriel), tenho 19 anos e sou estudante de Informática no [Instituto Federal Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/). Curto JavaScript, mas atualmente estou estudando Dart e Flutter
+Eu sou [**@jaderAdriel**](https://github.com/jaderAdriel), tenho 19 anos e sou estudante de Informática no [Instituto Federal Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/).
 
-## Status
-* 
-* Estudando Servidores e Flutter
 
 ## Linguagens e tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=993399&color=993399)
@@ -15,7 +12,6 @@ Eu sou [**@jaderAdriel**](https://github.com/jaderAdriel), tenho 19 anos e sou e
 ![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=white&labelColor=993399&color=993399&labelColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=993399&color=993399)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=993399&color=993399)
-![PHP](https://img.shields.io/badge/php-%2307405e.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=993399&color=993399)
 
 ## Skills
 ![Algoritmos](https://img.shields.io/badge/-Algoritmos-993399?style=for-the-badge)
