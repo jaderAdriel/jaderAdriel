@@ -12,8 +12,6 @@ Olá, Eu sou [**@jaderAdriel**](https://github.com/jaderAdriel), tenho 19 anos e
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?
-
 
 
 ## Contact
