@@ -1,6 +1,6 @@
 ## Bem vindo(a)
 Olá, Eu sou [**@jaderAdriel**](https://github.com/jaderAdriel), tenho 20 anos e sou estudante de Informática no [Instituto Federal Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/).
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317yg5gzim3zri3d52gmhmifmchq)
 [![jaderAdriel](https://github-readme-stats.vercel.app/api?username=jaderAdriel&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![jaderAdriel](https://github-readme-stats.vercel.app/api/top-langs/?username=jaderAdriel&hide=html,css,scss&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
