@@ -5,7 +5,7 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I enjoy unraveling the intricacies of back-end code and am captivated by the aesthetics of front-end development. I am on a quest for professional growth, aiming to enhance the languages I already use and delve into new ones that are essential in the job market.&nbsp;
+<p align="center">I'm here to do/be better than yesterday.<br><br>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jaderAdriel&theme=radical&mode=weekly" />
