@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaderAdriel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jaderAdriel&locale=pt-br&mode=weekly&theme=discord_old_blurple&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
