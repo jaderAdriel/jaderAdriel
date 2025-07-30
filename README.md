@@ -10,7 +10,7 @@ I'm Jader Adriel, a student of **Systems Analysis and Development** passionate a
 
 ## Technologies
 
-* **Languages**: Java, JavaScript, C++, SQL
+* **Languages**: Java, JavaScript, C++, SQL, Python
 * **Frameworks**: Django, SpringBoot
 * **Databases**: PostgreSQL, MySQL
 * **Tools**: Git, Docker, Linux
